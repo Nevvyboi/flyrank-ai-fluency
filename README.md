@@ -22,6 +22,7 @@ scheduled workflow that has already fired once.
 | 10 | Three Roads | [three stacks, scored against what the choice actually cost](10-three-roads.md) |
 | 11 | Explain It Like You Built It | [how the curve on the front page gets drawn](11-explain-it-like-you-built-it.md) |
 | 12 | Empty but Live | [the deployment record, and what going public taught me](12-empty-but-live.md) |
+| 13 | Plant Your Flag | [address, launch hygiene, and why analytics is deliberately absent](13-plant-your-flag.md) |
 
 ## What changed in the world because of these
 
