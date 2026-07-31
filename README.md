@@ -23,6 +23,7 @@ scheduled workflow that has already fired once.
 | 11 | Explain It Like You Built It | [how the curve on the front page gets drawn](11-explain-it-like-you-built-it.md) |
 | 12 | Empty but Live | [the deployment record, and what going public taught me](12-empty-but-live.md) |
 | 13 | Plant Your Flag | [address, launch hygiene, and why analytics is deliberately absent](13-plant-your-flag.md) |
+| 14 | Open It on Your Phone | [real Mobile Safari, and the colours it caught](14-open-it-on-your-phone.md) |
 
 ## What changed in the world because of these
 
@@ -45,6 +46,9 @@ Not documents about intentions. Things that are now true:
 - The site has a live feature: the scraper's de-duplicator, running client side
   on whatever you paste. Porting it caught a bug in the original that no test
   would have found, and both implementations now agree on all 998 records.
+- Opening it in real Mobile Safari caught the demo showing "left alone" in
+  confident green and "duplicate removed" in caution amber, the two states of
+  the site's own argument wearing each other's colours.
 
 ## Related repositories
 
