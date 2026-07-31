@@ -18,6 +18,10 @@ scheduled workflow that has already fired once.
 | 6 | The Through-Line | [one-line claim, content map, what is still missing](06-through-line-content-map.md) |
 | 7 | Break Your Own Site | [eleven findings, seven fixed](07-break-your-own-site.md) |
 | 8 | The Plan to Keep Building | [how to add the next case, and a reminder that fires](08-the-plan-to-keep-building.md) |
+| 9 | Make It Do Something | [a live demo running the real detector](09-make-it-do-something.md), verified against the Python on 998 records |
+| 10 | Three Roads | [three stacks, scored against what the choice actually cost](10-three-roads.md) |
+| 11 | Explain It Like You Built It | [how the curve on the front page gets drawn](11-explain-it-like-you-built-it.md) |
+| 12 | Empty but Live | [the deployment record, and what going public taught me](12-empty-but-live.md) |
 
 ## What changed in the world because of these
 
@@ -37,6 +41,9 @@ Not documents about intentions. Things that are now true:
 - A scheduled workflow opens a "add the next case study" issue every quarter,
   and [issue #1](https://github.com/Nevvyboi/Nevvyboi.github.io/issues/1) is
   open now.
+- The site has a live feature: the scraper's de-duplicator, running client side
+  on whatever you paste. Porting it caught a bug in the original that no test
+  would have found, and both implementations now agree on all 998 records.
 
 ## Related repositories
 
